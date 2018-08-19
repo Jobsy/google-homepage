@@ -1,0 +1,2 @@
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+This is a mini-project, in which an existing web page [Google.com homepage] was deconstructed and rebuilt.
